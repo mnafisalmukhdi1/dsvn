@@ -45,7 +45,7 @@ button:hover {
 
 /* Main Menu Styling */
 [data-screen="main"] {
-background:url(https://res.cloudinary.com/mnam23/image/upload/v1610939744/bg_main.png)!important;
+background:url(https://res.cloudinary.com/mnam23/image/upload/v1610939744/bg_main.png)!important 100% 100% no-repeat;
 }
 
 /* Main Menu Buttons Styling */
