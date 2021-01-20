@@ -11,6 +11,18 @@ monogatari.character ({
 	}
 });
 
+// Configuration
+monogatari.configuration ('credits', {
+		"Special Thanks to": {
+		"The Only One God": "Allah", 
+		"My friends": ["Muhammad Najib", "Radian"],
+	},
+	"Developers": {
+		"Artist": "AvatarMaker.com",
+		"Scenario Writer": "mnafisalmukhdi1",
+	},
+});
+
 // Script
 monogatari.script ({
 	'_SplashScreen': [
