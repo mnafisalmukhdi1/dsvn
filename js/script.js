@@ -15,16 +15,16 @@ monogatari.assets ('scenes', {
 
 // Characters
 monogatari.character ({
-	'id' : {
+	'i' : {
 		name: 'Idris'
 	},
-	'fir' : {
+	'f' : {
 		name: 'Firdaus'
 	},
-	'mus' : {
+	'm' : {
 		name: 'Mustafa'
 	},
-	'za' : {
+	'z' : {
 		name: 'Zain'
 	}
 });
@@ -59,6 +59,6 @@ monogatari.script ({
 	'show scene 0715 with fadeIn duration 3s',
 	'wait 3000',
 	'show background school',
-	'id Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.'
+	'i Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.'
 	],
 });
