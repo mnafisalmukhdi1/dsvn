@@ -17,19 +17,27 @@ monogatari.assets ('scenes', {
 monogatari.character ({
 	'i' : {
 		name: 'Idris',
-		color: '#4682B4'
+		color: '#4682B4',
+		expressions: {normal: 'idris.png'},
+		default_expression: 'normal'
 	},
 	'f' : {
 		name: 'Firdaus',
-		color: '#9ACD32'
+		color: '#9ACD32',
+		expressions: {normal: 'firdaus.png'},
+		default_expression: 'normal'
 	},
 	'm' : {
 		name: 'Mustafa',
-		color: '#00008B'
+		color: '#00008B',
+		expressions: {normal: 'mustafa.png'},
+		default_expression: 'normal'
 	},
 	'z' : {
 		name: 'Zain',
-		color: '#1E90FF'
+		color: '#1E90FF',
+		expressions: {normal: 'zain.png'},
+		default_expression: 'normal'
 	}
 });
 
@@ -63,6 +71,7 @@ monogatari.script ({
 	'show scene 0715 with fadeIn duration 3s',
 	'wait 3000',
 	'show background school',
-	'i Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.'
+	'i Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.',
+	'i Aku memasuki sekolah ini karena terkena zonasi, rumahku yang tepat di perbatasan antara Kota Sukamawar dengan Kota Kebun Melati dikatakan lebih dekat ke MA Sukamawar daripada MA Kebun Melati.'
 	],
 });
