@@ -23,13 +23,13 @@ monogatari.settings({
 	'Version': '0.1.0',
 
 	// Initial Label *
-	'Label': 'Mulai',
+	'Label': 'Start',
 
 	// Number of AutoSave Slots
 	'Slots': 10,
 
 	// Change to true for a MultiLanguage GameScreen.
-	'MultiLanguage': false,
+	'MultiLanguage': true,
 
 	// If the 'Multilanguage' setting is set to `true`. This will enable a
 	// language selection screen that will be shown before the asset loading
@@ -41,8 +41,8 @@ monogatari.settings({
 	'MainScreenMusic': '',
 
 	// Prefix for the Save Slots in Local Storage.
-	'SaveLabel': 'Simpan',
-	'AutoSaveLabel': 'Simpan Otomatis',
+	'SaveLabel': 'Save',
+	'AutoSaveLabel': 'AutoSave',
 
 	// Turn main menu on/off; Default: true *
 	'ShowMainScreen': true,
@@ -136,7 +136,7 @@ monogatari.settings({
 monogatari.preferences ({
 
 	// Initial Language for Multilanguage Games or for the Default GUI Language.
-	'Language': 'Indonesia',
+	'Language': 'English',
 
 	// Initial Volumes from 0.0 to 1.
 	'Volume': {
