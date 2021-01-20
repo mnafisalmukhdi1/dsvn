@@ -16,16 +16,20 @@ monogatari.assets ('scenes', {
 // Characters
 monogatari.character ({
 	'i' : {
-		name: 'Idris'
+		name: 'Idris',
+		color: '#4682B4'
 	},
 	'f' : {
-		name: 'Firdaus'
+		name: 'Firdaus',
+		color: '#9ACD32'
 	},
 	'm' : {
-		name: 'Mustafa'
+		name: 'Mustafa',
+		color: '#00008B'
 	},
 	'z' : {
-		name: 'Zain'
+		name: 'Zain',
+		color: '#1E90FF'
 	}
 });
 
