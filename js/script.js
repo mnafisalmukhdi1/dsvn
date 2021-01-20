@@ -1,17 +1,35 @@
-// Assets
+// Assets for Scenes and Backgrounds
 monogatari.assets ('scenes', {
-    'pg13': 'pg13.png',
-    'author': 'author.png'
+	'pg13': 'pg13.png',
+	'author': 'author.png',
+	'0715': '0715.png',
+	'0716': '0716.png',
+	'0717': '0717.png',
+	'school': 'school.jpg',
+	'stage': 'stage.jpg',
+	'chairs': 'chairs.jpg',
+	'locker': 'locker.jpg',
+	'library': 'library.jpg',
+	'musala': 'musala.jpg'
 });
 
 // Characters
 monogatari.character ({
 	'id' : {
 		name: 'Idris'
+	},
+	'fir' : {
+		name: 'Firdaus'
+	},
+	'mus' : {
+		name: 'Mustafa'
+	},
+	'za' : {
+		name: 'Zain'
 	}
 });
 
-// Configuration
+// Configuration for Credits
 monogatari.configuration ('credits', {
 		"Special Thanks to": {
 		"The Only One God": "Allah", 
@@ -35,6 +53,9 @@ monogatari.script ({
 	'Start': [
         'nvl Kasus 1',
 	'nvl Pertemuan',
-	'end'
-    	]
+	'jump Kasus01'
+    	],
+	'Kasus01': [
+	'show scene 	
+	],
 });
