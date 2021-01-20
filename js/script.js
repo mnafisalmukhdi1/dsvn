@@ -14,9 +14,9 @@ monogatari.action ('message').messages ({
 
 // Define the notifications used in the game
 monogatari.action ('notification').notifications ({
-	'Welcome': {
-		title: 'Welcome',
-		body: 'This is the Monogatari VN Engine',
+	'Selamat Datang!': {
+		title: 'Selamat Datang!',
+		body: 'Ini adalah Detektif Sekolahan Visual Novel',
 		icon: ''
 	}
 });
@@ -75,8 +75,8 @@ monogatari.assets ('scenes', {
 
 // Define the Characters
 monogatari.characters ({
-	'y': {
-		name: 'Yui',
+	'i': {
+		name: 'Idris',
 		color: '#5bcaff'
 	}
 });
@@ -110,7 +110,7 @@ monogatari.script ({
 				'Warning': 'You must enter a name!'
 			}
 		},
-		'y Hi {{player.name}} Welcome to Monogatari!',
+		'y Hi {{player.name}} Welcome to Detektif Sekolahan!',
 		{
 			'Choice': {
 				'Dialog': 'y Have you already read some documentation?',
