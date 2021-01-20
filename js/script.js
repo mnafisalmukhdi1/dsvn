@@ -19,7 +19,7 @@ monogatari.script ({
 	'show scene author with fadeIn duration 3s',
 	'wait 3000',
         'end'
-	]
+	],
 	'Start': [
         'nvl Kasus 1',
 	'nvl Pertemuan',
