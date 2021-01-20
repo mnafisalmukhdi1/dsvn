@@ -15,7 +15,7 @@ monogatari.character ({
 monogatari.script ({
     'Start': [
         'show scene pg13 with fadeIn duration 3s',
-	'end',
+	'show scene pg13 with fadeOut duration 3s',
 	'show scene author with fadeIn duration 3s',
         'end'
     ]
