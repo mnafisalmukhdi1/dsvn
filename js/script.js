@@ -56,6 +56,9 @@ monogatari.script ({
 	'jump Kasus01'
     	],
 	'Kasus01': [
-	'show scene 	
+	'show scene 0715 with fadeIn duration 3s',
+	'wait 3000',
+	'show background school',
+	'id Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.'
 	],
 });
