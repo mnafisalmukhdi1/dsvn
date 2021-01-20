@@ -1,7 +1,7 @@
 // Assets
 monogatari.assets ('scenes', {
     'pg13': 'pg13.png',
-    'author': 'na.png'
+    'author': 'author.png'
 });
 
 // Script
