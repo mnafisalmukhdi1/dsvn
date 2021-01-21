@@ -14,7 +14,7 @@ monogatari.assets ('scenes', {
 });
 
 // Characters
-monogatari.character ({
+monogatari.characters ({
 	'i' : {
 		name: 'Idris',
 		color: '#4682B4',
@@ -90,11 +90,13 @@ monogatari.script ({
 		'i Kami dipersilahkan duduk. Aku memilih kursi tengah.',
 		'show background stage',
 		'm Halo semua!',
+		'show background chairs'
 		'Halo!',
+		'show background stage',
 		'm Perkenalkan, nama kakak Mustafa. Kakak adalah ketua OSIS di MA Sukamawar ini. Salam kenal ya!',
 		'z Halo, namaku adalah Zain, aku wakil ketua OSIS. Senang bertemu dengan kalian!',
 		'm Setiap tahun, sekolah ini mengadakan Masa Taaruf Siswa Madrasah, atau yang disingkat Matsama. Acara ini diselenggarakan agar kita bisa mengenal, dari siswa sampai sekolah ini sendiri.',
 		'm Dan tahun ini, kami dipercaya sebagai penyelenggara. Doakan juga acara ini berjalan dengan lancar, semoga.',
-		'z:Confused Apa maksudnya?'
+		'z Apa maksudnya?'
 	],
 });
