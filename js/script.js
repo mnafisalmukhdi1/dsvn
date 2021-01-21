@@ -69,25 +69,29 @@ monogatari.script ({
         'end'
 	],
 	'Start': [
-        'nvl Case 1',
-	'nvl The Meeting',
-	'jump Case01'
+	'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.'
+	'jump Kasus01'
     	],
-	'Case01': [
-	'show scene 0715 with fadeIn duration 3s',
-	'wait 3000',
-	'show background school',
-	'i Schools entered simultaneously today, including the new one for me, MA Sukamawar.',
-	'i I entered this school due to zoning, my house which is right on the border between Kota Sukamawar and Kota Kebun Melati is said to be closer to MA Sukamawar than MA Kebun Melati.',
-	'i In fact, because I was born in Kebun Melati, of course I went to school there. But the zoning system agreed upon by the two mayors chose me to be in Sukamawar.',
-	'i I do not fully know Sukamawar, except for the name. So, I am new here, and I am filled with confusion.',
-	'i That morning a flag-raising ceremony was held. With a man that telling some messages, I guess it was the principal of the school, because he welcomed and proud of the excellence of MA Sukamawar.',
-	'i He recalled past achievements, one of which was a student who won the Olympics in Japan.',
-	'i This discussion is actually interesting, but I feel bored. This boredom drives me through time unconsciously.',
-	'i The ceremony is done. We told for go to the multifungtional room.',
-	'show background chairs',
-	'i We are welcome to sit down. I chose the middle seat.',
-	'show background stage',
-	'm Hello all!'
+	'Kasus01': [
+		'nvl Kasus 1',
+		'nvl Pertemuan',
+		'show scene 0715 with fadeIn duration 3s',
+		'wait 3000',
+		'show background school',
+		'i Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.',
+		'i Aku memasuki sekolah ini karena terkena zonasi, rumahku yang tepat di perbatasan antara Kota Sukamawar dengan Kota Kebun Melati dikatakan lebih dekat ke MA Sukamawar daripada MA Kebun Melati.',
+		'i Padahal karena aku kelahiran Kebun Melati, tentu saja aku bersekolah di sana. Tapi sistem zonasi yang disepakati oleh kedua walikota memilihku untuk berada di Sukamawar.',
+		'i Aku belum mengenal Sukamawar sepenuhnya, kecuali namanya saja. Maka, aku orang baru di sini, dan aku dipenuhi dengan kebingungan.',
+		'i Pagi itu dilaksanakanlah upacara penaikan bendera. Dengan penyampai amanat seorang pria, kutebak itu kepala sekolah, karena beliau menyampaikan selamat datang dan membanggakan unggulnya MA Sukamawar.',
+		'i Dia mengingat-ingatkan prestasi zaman dulu, salah satu di antaranya adalah seorang siswa yang memenangkan olimpiade di Jepang.',
+		'i Pembahasan ini sebenarnya menarik, namun aku merasa bosan. Kebosanan ini membuatku melalui waktu secara tidak sadar.',
+		'i Upacara selesai. Kami disuruh menuju ruang multiguna.',
+		'show background chairs',
+		'i Kami dipersilahkan duduk. Aku memilih kursi tengah.',
+		'show background stage',
+		'm Halo semua!',
+		'Halo!',
+		'm Perkenalkan, nama kakak Mustafa. Kakak adalah ketua OSIS di MA Sukamawar ini. Salam kenal ya!',
+		'z Halo, namaku adalah Zain, aku wakil ketua OSIS. Senang bertemu dengan kalian!'
 	],
 });
