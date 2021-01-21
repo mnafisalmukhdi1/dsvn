@@ -104,7 +104,7 @@ monogatari.script ({
 		'z Halo, namaku adalah Zain, aku wakil ketua OSIS. Senang bertemu dengan kalian!',
 		'm Setiap tahun, sekolah ini mengadakan Masa Taaruf Siswa Madrasah, atau yang disingkat Matsama. Acara ini diselenggarakan agar kita bisa mengenal, dari siswa sampai sekolah ini sendiri.',
 		'm Dan tahun ini, kami dipercaya sebagai penyelenggara. Doakan juga acara ini berjalan dengan lancar, semoga.',
-		'z Apa maksudnya?'
+		'z Apa maksudnya?',
 		'z Ya, acara pertama kita selesai. Sepertinya kita juga tidak perlu sambutan kepala sekolah mengingat beliau yang menyampaikan amanat tadi. Maka tidak ada acara lagi selain berkenalan. Silahkan mulai dari teman di samping!',
 		'z Kalian diharuskan selalu berjalan beriringan dengan salah satu teman baru kalian, agar lebih memperat pertemanan kalian.',
 		'z Nanti juga kalian boleh menunjukkan bakat pada besok hari. Sampai jumpa.',
