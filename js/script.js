@@ -117,7 +117,7 @@ monogatari.script ({
 		'show scene #000',
 		'i Kami mencari di perpustakaan.',
 		'show background library with fadeIn 3s',
-		'centered Tidak ada di sini.'
+		'centered Tidak ada di sini.',
 		'show scene #000',
 		'i Kami mencari di ruangan sebelahnya.',
 		'centered Terkunci.'
