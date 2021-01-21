@@ -108,7 +108,7 @@ monogatari.script ({
 		'show background locker',
 		'i Apa yang kamu cari?',
 		'f Tasku. Warnanya biru dan aku menaruhnya di belakang.',
-		'f Bagaimana bisa hilang? Sedangkan kita saja diam di kursi sejak awal?'
+		'f Bagaimana bisa hilang? Sedangkan kita saja diam di kursi sejak awal?',
 		'i Berarti itu disengaja.',
 		'f Apa maksudmu?',
 		'i Cobalah cari, mungkin aku bisa menemanimu.',
