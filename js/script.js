@@ -69,7 +69,7 @@ monogatari.script ({
         'end'
 	],
 	'Start': [
-	'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.'
+	'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
 	'jump Kasus01'
     	],
 	'Kasus01': [
@@ -92,6 +92,9 @@ monogatari.script ({
 		'm Halo semua!',
 		'Halo!',
 		'm Perkenalkan, nama kakak Mustafa. Kakak adalah ketua OSIS di MA Sukamawar ini. Salam kenal ya!',
-		'z Halo, namaku adalah Zain, aku wakil ketua OSIS. Senang bertemu dengan kalian!'
+		'z Halo, namaku adalah Zain, aku wakil ketua OSIS. Senang bertemu dengan kalian!',
+		'm Setiap tahun, sekolah ini mengadakan Masa Taaruf Siswa Madrasah, atau yang disingkat Matsama. Acara ini diselenggarakan agar kita bisa mengenal, dari siswa sampai sekolah ini sendiri.',
+		'm Dan tahun ini, kami dipercaya sebagai penyelenggara. Doakan juga acara ini berjalan dengan lancar, semoga.',
+		'z:Confused Apa maksudnya?'
 	],
 });
