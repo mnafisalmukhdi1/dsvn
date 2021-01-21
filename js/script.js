@@ -113,8 +113,8 @@ monogatari.script ({
 		'f Apa maksudmu?',
 		'i Cobalah cari, mungkin aku bisa menemanimu.',
 		'show background school',
-		'Kami mulai mencari. Wajah Firdaus terlihat gelisah.'
-		'show scene #000'
+		'Kami mulai mencari. Wajah Firdaus terlihat gelisah.',
+		'show scene #000',
 		'Kami mencari di perpustakaan.',
 		'show background library with fadeIn 3s',
 		'centered Tidak ada di sini.'
