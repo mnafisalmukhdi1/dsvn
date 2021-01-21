@@ -18,37 +18,22 @@ monogatari.characters ({
 	'i' : {
 		name: 'Idris',
 		color: '#4682B4',
-		sprites: {normal: 'idris.png'},
-		expressions: {normal: 'idris.png'},
-		default_expression: 'normal'
 	},
 	'f' : {
 		name: 'Firdaus',
 		color: '#9ACD32',
-		sprites: {normal: 'firdaus.png'},
-		expressions: {normal: 'firdaus.png'},
-		default_expression: 'normal'
 	},
 	'm' : {
 		name: 'Mustafa',
 		color: '#00008B',
-		sprites: {normal: 'mustafa.png'},
-		expressions: {normal: 'mustafa.png'},
-		default_expression: 'normal'
 	},
 	'z' : {
 		name: 'Zain',
 		color: '#1E90FF',
-		sprites: {normal: 'mustafa.png'},
-		expressions: {normal: 'zain.png'},
-		default_expression: 'normal'
 	},
 	'b' : {
 		name: 'Bagus',
 		color: '#CD853F',
-		sprites: {normal: 'bagus.png'},
-		expressions: {normal: 'bagus.png'},
-		default_expression: 'normal'
 	}
 });
 
@@ -87,10 +72,8 @@ monogatari.script ({
 		'i Aku memasuki sekolah ini karena terkena zonasi, rumahku yang tepat di perbatasan antara Kota Sukamawar dengan Kota Kebun Melati dikatakan lebih dekat ke MA Sukamawar daripada MA Kebun Melati.',
 		'i Padahal karena aku kelahiran Kebun Melati, tentu saja aku bersekolah di sana. Tapi sistem zonasi yang disepakati oleh kedua walikota memilihku untuk berada di Sukamawar.',
 		'i Aku belum mengenal Sukamawar sepenuhnya, kecuali namanya saja. Maka, aku orang baru di sini, dan aku dipenuhi dengan kebingungan.',
-		'show character b normal with fadeIn',
 		'i Pagi itu dilaksanakanlah upacara penaikan bendera. Dengan penyampai amanat seorang pria, kutebak itu kepala sekolah, karena beliau menyampaikan selamat datang dan membanggakan unggulnya MA Sukamawar.',
 		'i Dia mengingat-ingatkan prestasi zaman dulu, salah satu di antaranya adalah seorang siswa yang memenangkan olimpiade di Jepang.',
-		'hide character b with fadeOut',
 		'i Pembahasan ini sebenarnya menarik, namun aku merasa bosan. Kebosanan ini membuatku melalui waktu secara tidak sadar.',
 		'i Upacara selesai. Kami disuruh menuju ruang multiguna.',
 		'show background chairs',
@@ -109,11 +92,21 @@ monogatari.script ({
 		'z Kalian diharuskan selalu berjalan beriringan dengan salah satu teman baru kalian, agar lebih memperat pertemanan kalian.',
 		'z Nanti juga kalian boleh menunjukkan bakat pada besok hari. Sampai jumpa.',
 		'i Aku sangat canggung saat itu, belum berani walau sebatas menyebutkan nama. Aku hanya terus menunduk.',
-		'show character f Normal',
 		'Hai!',
-		'show character i Normal',
 		'i Oh?',
 		'f Namaku Ahmad Firdaus. Namamu siapa?',
-		'i Namaku Muhammad Idris.'
+		'i Namaku Muhammad Idris.',
+		'f Kamu dari mana?',
+		'i Aku dari Kota Kebun Melati.',
+		'f Kalau aku asli dari Sukamawar, senang berkenalan denganmu.',
+		'i Firdaus menjulurkan tangannya, pertanda ingin menjabat. Aku menyambutnya perlahan karena gugup. Sesingkat itu perkenalanku.',
+		'i Namun pertemuan itu, adalah awal dari segalanya.',
+		'show background stage',
+		'z Sudah waktu istirahat. Sila makan!',
+		'i Kami pun bergerak menuju tempat penaruhan barang. Firdaus nampak mencari sesuatu.',
+		'show background locker',
+		'i Apa yang kamu cari?',
+		'f Tasku. Warnanya biru dan aku menaruhnya di belakang.'
+
 	],
 });
