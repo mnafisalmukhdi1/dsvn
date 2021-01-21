@@ -107,7 +107,16 @@ monogatari.script ({
 		'i Kami pun bergerak menuju tempat penaruhan barang. Firdaus nampak mencari sesuatu.',
 		'show background locker',
 		'i Apa yang kamu cari?',
-		'f Tasku. Warnanya biru dan aku menaruhnya di belakang.'
-
+		'f Tasku. Warnanya biru dan aku menaruhnya di belakang.',
+		'f Bagaimana bisa hilang? Sedangkan kita saja diam di kursi sejak awal?'
+		'i Berarti itu disengaja.',
+		'f Apa maksudmu?',
+		'i Cobalah cari, mungkin aku bisa menemanimu.',
+		'show background school',
+		'Kami mulai mencari. Wajah Firdaus terlihat gelisah.'
+		'show scene #000'
+		'Kami mencari di perpustakaan.',
+		'show background library with fadeIn 3s',
+		'centered Tidak ada di sini.'
 	],
 });
