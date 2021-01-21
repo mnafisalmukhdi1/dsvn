@@ -6,10 +6,13 @@ monogatari.assets ('scenes', {
 	'0716': '0716.png',
 	'0717': '0717.png',
 	'school': 'school.jpg',
+	'door_gudang': 'door_gudang.png',
 	'stage': 'stage.jpg',
 	'chairs': 'chairs.jpg',
 	'locker': 'locker.jpg',
+	'door_lib': 'door_lib.png',
 	'library': 'library.jpg',
+	'door_musala': 'door_musala.png',
 	'musala': 'musala.jpg'
 });
 
@@ -114,10 +117,11 @@ monogatari.script ({
 		'i Cobalah cari, mungkin aku bisa menemanimu.',
 		'show background school',
 		'i Kami mulai mencari. Wajah Firdaus terlihat gelisah.',
+		'show background door_lib'
 		'i Kami mencari di perpustakaan.',
 		'show background library with fadeIn 3s',
 		'centered Tidak ada di sini.',
-		'show background school',
+		'show background door_gudang',
 		'i Kami mencari di ruangan sebelahnya.',
 		'centered Terkunci.'
 	],
