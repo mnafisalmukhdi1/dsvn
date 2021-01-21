@@ -15,31 +15,31 @@ monogatari.assets ('scenes', {
 
 // Characters
 monogatari.character ({
-	'i' : {
+	'Idris' : {
 		name: 'Idris',
 		color: '#4682B4',
 		expressions: {normal: 'idris.png'},
 		default_expression: 'normal'
 	},
-	'f' : {
+	'Firdaus' : {
 		name: 'Firdaus',
 		color: '#9ACD32',
 		expressions: {normal: 'firdaus.png'},
 		default_expression: 'normal'
 	},
-	'm' : {
+	'Mustafa' : {
 		name: 'Mustafa',
 		color: '#00008B',
 		expressions: {normal: 'mustafa.png'},
 		default_expression: 'normal'
 	},
-	'z' : {
+	'Zain' : {
 		name: 'Zain',
 		color: '#1E90FF',
 		expressions: {normal: 'zain.png'},
 		default_expression: 'normal'
 	},
-	'b' : {
+	'Bagus' : {
 		name: 'Bagus',
 		color: '#CD853F',
 		expressions: {normal: 'bagus.png'},
@@ -77,7 +77,7 @@ monogatari.script ({
 	'show scene 0715 with fadeIn duration 3s',
 	'wait 3000',
 	'show background school',
-	'i Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.',
+	'Idris Sekolah masuk serentak hari ini, termasuk yang baru bagiku, MA Sukamawar.',
 	'i Aku memasuki sekolah ini karena terkena zonasi, rumahku yang tepat di perbatasan antara Kota Sukamawar dengan Kota Kebun Melati dikatakan lebih dekat ke MA Sukamawar daripada MA Kebun Melati.',
 	'i Padahal karena aku kelahiran Kebun Melati, tentu saja aku bersekolah di sana. Tapi sistem zonasi yang disepakati oleh kedua walikota memilihku untuk berada di Sukamawar.',
 	'i Aku belum mengenal Sukamawar sepenuhnya, kecuali namanya saja. Maka, aku orang baru di sini, dan aku dipenuhi dengan kebingungan.',
