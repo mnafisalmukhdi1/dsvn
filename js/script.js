@@ -90,7 +90,7 @@ monogatari.script ({
 		'i Kami dipersilahkan duduk. Aku memilih kursi tengah.',
 		'show background stage',
 		'm Halo semua!',
-		'show background chairs'
+		'show background chairs',
 		'Halo!',
 		'show background stage',
 		'm Perkenalkan, nama kakak Mustafa. Kakak adalah ketua OSIS di MA Sukamawar ini. Salam kenal ya!',
