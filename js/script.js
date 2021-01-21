@@ -84,6 +84,10 @@ monogatari.script ({
 	'i Pagi itu dilaksanakanlah upacara penaikan bendera. Dengan penyampai amanat seorang pria, kutebak itu kepala sekolah, karena beliau menyampaikan selamat datang dan membanggakan unggulnya MA Sukamawar.',
 	'i Dia mengingat-ingatkan prestasi zaman dulu, salah satu di antaranya adalah seorang siswa yang memenangkan olimpiade di Jepang.',
 	'i Pembahasan ini sebenarnya menarik, namun aku merasa bosan. Kebosanan ini membuatku melalui waktu secara tidak sadar.',
-	'i Upacara selesai. Kami disuruh menuju ruang multiguna.'
+	'i Upacara selesai. Kami disuruh menuju ruang multiguna.',
+	'show background chairs',
+	'i Kami dipersilahkan duduk. Aku memilih kursi tengah.',
+	'show background stage',
+	'm Halo semua!'
 	],
 });
