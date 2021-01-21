@@ -91,6 +91,7 @@ monogatari.script ({
 		'z Ya, acara pertama kita selesai. Sepertinya kita juga tidak perlu sambutan kepala sekolah mengingat beliau yang menyampaikan amanat tadi. Maka tidak ada acara lagi selain berkenalan. Silahkan mulai dari teman di samping!',
 		'z Kalian diharuskan selalu berjalan beriringan dengan salah satu teman baru kalian, agar lebih memperat pertemanan kalian.',
 		'z Nanti juga kalian boleh menunjukkan bakat pada besok hari. Sampai jumpa.',
+		'show background chairs',
 		'i Aku sangat canggung saat itu, belum berani walau sebatas menyebutkan nama. Aku hanya terus menunduk.',
 		'Hai!',
 		'i Oh?',
