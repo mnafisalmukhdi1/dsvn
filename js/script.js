@@ -137,6 +137,20 @@ monogatari.script ({
 		'i Kami terus berjalan sampai ke musala.',
 		'show scene musala_bag with shake 1s',
 		'vibrate 200',
-		'f Tasku!'
+		'f Tasku!',
+		'show background musala',
+		'i Firdaus langsung membukanya, dan menunjukkan wajah lega setelahnya. Aku melihat juga beberapa barang juga terletak di sini.',
+		'f Kurasa kamu benar. Ini seperti disengaja.',
+		'show scene 0716 with fadeIn duration 3s',
+		'i Sekarang adalah hari kedua dari acara Masa Taaruf Siswa Madrasah, juga sekolahku di tingkat MA.',
+		'wait 3000',
+		'show background stage',
+		'z Halo semuanya!',
+		'show background chairs',
+		'Halo!',
+		'show background stage',
+		'z Hari ini kita melanjutkan acara kita, dan sesuai janji kakak, kalian boleh menunjukkan bakat kalian.',
+		'show background chairs',
+		'Semua bertepuk tangan. Seolah bergembira atas apa yang akan mereka tonton sebentar lagi.'
 	],
 });
