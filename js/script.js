@@ -213,7 +213,7 @@ monogatari.script ({
 		'i Aku memiliki teori bahwa sebenarnya barang-barang diambil secara acak namun diletakkan di tempat tertentu. Semakin jauh kalian menaruh barang, semakin dekat untuk ditemukan.',
 		'i Lanjut untuk yang kedua, penculikan <i>kak</i> Zain.',
 		'i Sama seperti menghilangnya barang itu, hal ini disengaja. Buktinya bahwa kejadian ini didramatisasi, padahal mereka bisa saja menculiknya langsung tanpa mengatur pencahayaannya.',
-		'i Di sini aku memiliki teori yang hampir mirip dengan sebelumnya, tapi sekarang semakin berat suatu barang, semakin dekat dia ditemukan.'
+		'i Di sini aku memiliki teori yang hampir mirip dengan sebelumnya, tapi sekarang semakin berat suatu barang, semakin dekat dia ditemukan.',
 		'i Lagipula seandainya memang ada penculik, maka <i>kak</i> Zain akan lebih susah untuk ditemukan.',
 		'f Lalu bagaimana caranya dia bisa berada di musala?',
 		'i Orang ini menurutku susah dipindahkan oleh hanya satu orang. Orang itu adalah....',
