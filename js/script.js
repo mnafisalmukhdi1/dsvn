@@ -40,6 +40,14 @@ monogatari.characters ({
 	}
 });
 
+// Component
+monogatari.component ('main-screen').template (() => {
+    return `
+        <img src="https://res.cloudinary.com/mnam23/image/upload/v1611279509/ds_logo.png" alt="Detektif Sekolahan" title="Detektif Sekolahan">
+        <main-menu></main-menu>
+    `;
+});
+
 // Configuration for Credits
 monogatari.configuration ('credits', {
 		"Special Thanks to": {
