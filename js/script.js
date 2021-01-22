@@ -200,7 +200,7 @@ monogatari.script ({
 		'show background chairs',
 		'Suasana menjadi ricuh, seolah para siswa tidak ingin kegembiraan ini berakhir begitu saja.',
 		'show background stage',
-		'z Saya, mewakili OSIS, meminta maaf atas segala kejadian yang terjadi di Matsama ini, dari menghilangnya barang-barang kalian sampai diculiknya aku beberapa hari yang lalu.'
+		'z Saya, mewakili OSIS, meminta maaf atas segala kejadian yang terjadi di Matsama ini, dari menghilangnya barang-barang kalian sampai diculiknya aku beberapa hari yang lalu.',
 		'z Kami berjanji, kami akan mengungkap siapa orang yang melakukan hal itu, dengan bantuan teman kita yang bernama Muhammad Idris.',
 		'Ketika nama Idris dipanggil, dia memberanikan diri untuk berdiri dari tempat duduk dan menuju ke depan. Zain turun dari panggung dan menyerahkan mikrofon kepadanya.',
 		'i Perkenalkan, namaku Muhammad Idris, panggil saja Idris. Aku di sini ditunjuk untuk memberitahukan kalian siapa pelaku di balik kejadian-kejadian ini.',
