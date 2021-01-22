@@ -11,9 +11,10 @@ monogatari.assets ('scenes', {
 	'chairs': 'chairs.jpg',
 	'locker': 'locker.jpg',
 	'door_lib': 'door_lib.png',
-	'library': 'library.jpg',
+	'library': 'library.png',
 	'door_musala': 'door_musala.png',
-	'musala': 'musala.jpg'
+	'musala': 'musala.jpg',
+	'musala_bag': 'musala_bag.png'
 });
 
 // Characters
@@ -134,6 +135,8 @@ monogatari.script ({
 		'centered Terkunci.',
 		'show background door_musala',
 		'i Kami terus berjalan sampai ke musala.',
-		
+		'show scene musala_bag with shake 1s',
+		'vibrate 200',
+		'f Tasku!'
 	],
 });
