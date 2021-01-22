@@ -1,3 +1,13 @@
+// Action for Messages
+monogatari.action ('Message').messages ({
+    'thank_you': {
+        title: 'Terima Kasih!',
+        subtitle: 'Terima kasih kepada Anda karena telah mengikuti sejauh ini.',
+        body: 'Pantau terus Facebook @mnafisalmukhdi1 untuk kabar mengenai pembaruan karya ini.'
+    }
+});
+
+
 // Assets for Scenes and Backgrounds
 monogatari.assets ('scenes', {
 	'pg13': 'pg13.png',
@@ -201,6 +211,49 @@ monogatari.script ({
 		'i Kami mulai mencari tas itu dan menemukannya di musala, tepat di samping ruangan ini. Di sana juga ditaruh beberapa barang yang sepertinya sudah kalian ambil.',
 		'f Aku menyadari sesuatu yang aneh, hanya barang-barang yang ditaruh paling belakang yang terletak di sana.',
 		'i Aku memiliki teori bahwa sebenarnya barang-barang diambil secara acak namun diletakkan di tempat tertentu. Semakin jauh kalian menaruh barang, semakin dekat untuk ditemukan.',
-		'i Lanjut untuk yang kedua, penculikan <i>kak</i> Zain.'
+		'i Lanjut untuk yang kedua, penculikan <i>kak</i> Zain.',
+		'i Sama seperti menghilangnya barang itu, hal ini disengaja. Buktinya bahwa kejadian ini didramatisasi, padahal mereka bisa saja menculiknya langsung tanpa mengatur pencahayaannya.',
+		'i Di sini aku memiliki teori yang hampir mirip dengan sebelumnya, tapi sekarang semakin berat suatu barang, semakin dekat dia ditemukan.'
+		'i Lagipula seandainya memang ada penculik, maka <i>kak</i> Zain akan lebih susah untuk ditemukan.',
+		'f Lalu bagaimana caranya dia bisa berada di musala?',
+		'i Orang ini menurutku susah dipindahkan oleh hanya satu orang. Orang itu adalah....',
+		'i Kak Mustafa! Keluarlah! Saya tahu Anda pelakunya.',
+		'm Wah, kamu benar sekali.',
+		'f Apa alasan kakak melakukan ini?',
+		'm Bertahun-tahun, para siswa tidak pernah menghargai kegiatan Matsama ini, saking tidak menghargainya, mereka memanggilku kembali.',
+		'm Aku baru saja lulus dari MA Sukamawar ini, dan mereka masih memerlukanku. Aku merelakan semuanya demi acara ini. Tapi mereka tidak menghargainya.',
+		'f Tidak begitu, aku menyukai acara ini. Tanpanya, belum tentu aku bertemu dengan teman baruku.',
+		'f Aku yakin, di antara orang-orang di sini, ada orang yang meneruskan ide kreatif Anda. Jika Anda mengarahkannya ke jalan yang benar.',
+		'Idris maju dan menyalami Mustafa. Dia nampak kelelahan, dan akhirnya pingsan. Idris mencoba menyanggahnya sekuat tenaga. Kemudian tim PMR membantu dalam hal ini. Mustafa pun dibawa menggunakan tandu keluar dari ruangan.',
+		'i Ada apa dengannya?',
+		'z Bukankah dia sudah bilang, dia merelakan segalanya?',
+		'z Sebenarnya aku juga alumni, dan sejak dulu dia selalu berusaha sampai lupa diri.',
+		'z Apa yang dia katakan itu benar, selama kami menjabat, acara Matsama tidak pernah dihargai. Sekarang, dia punya ide, bagaimana kalau acaranya dikacaukan saja. Dan kalian malah lebih menghargainya.',
+		'z Aku melihat dengan jelas, ketika Mustafa berpidato, ekspresi kalian menandakan bahwa sebenarnya kalian tidak menginginkannya. Yang kalian inginkan hanya keseruannya.',
+		'Zain meminta mikrofon yang dipegang oleh Idris dikembalikan.',
+		'z Ya, demikianlah acara kita, berakhir disini. Saya mewakili seluruh anggota OSIS mengucapkan maaf atas banyaknya kesalahan dalam acara ini.',
+		'Idris menyalami Zain namun dia memeluk.',
+		'z Terima kasih, sekarang semua sempurna.',
+		'Zain melepas pelukan dan tersenyum.',
+		'Anggota OSIS pun meninggalkan ruangan setelahnya. Idris hanya tersenyum, sementara Firdaus kebingungan. Para siswa mulai meninggalkan ruangan. Idris dan Firdaus mengambil tas mereka di tempat penaruhan barang, sembari keluar.',
+		'show background school',
+		'f Apa maksudnya tadi?',
+		'Rupanya Firdaus juga mendengar ucapan terakhir Zain.',
+		'i Bukankah kubilang, semuanya sudah dirancang. Aku yakin naskah mereka diperbarui beberapa saat sebelum acara karena aku memberitahu pelakunya. Dan seolah aku yang menyempurnakannya.',
+		'f Oh ya, kamu jurusan apa?',
+		'i Aku jurusan Agama, kamu?',
+		'i Aku jurusan Bahasa, huft.',
+		'f Hanya saja aku berharap kita bisa sekelas dan mengenal lebih lanjut.',
+		'i Kita bisa gunakan waktu istirahat untuk berbicara nantinya.',
+		'f Ya, terkadang hidup kita ini perlu diisi.',
+		'Idris terlihat bingung dengan perkataan Firdaus.',
+		'show scene #000 with fadeIn 3s',
+		'wait 1000',
+		'jump Tamat'
+	],
+	'Tamat' : [
+		'shpw background #000',
+		'show message thank_you',
+		'end'
 	],
 });
