@@ -123,6 +123,9 @@ monogatari.script ({
 		'centered Tidak ada di sini.',
 		'show background door_gudang',
 		'i Kami mencari di ruangan sebelahnya.',
-		'centered Terkunci.'
+		'centered Terkunci.',
+		'show background door_musala',
+		'i Kami terus berjalan sampai ke musala.',
+		
 	],
 });
