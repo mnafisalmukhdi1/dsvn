@@ -8,6 +8,7 @@ monogatari.assets ('scenes', {
 	'school': 'school.jpg',
 	'door_gudang': 'door_gudang.png',
 	'stage': 'stage.jpg',
+	'stage_dark': 'stage_dark.png',
 	'chairs': 'chairs.jpg',
 	'locker': 'locker.jpg',
 	'door_lib': 'door_lib.png',
@@ -15,6 +16,12 @@ monogatari.assets ('scenes', {
 	'door_musala': 'door_musala.png',
 	'musala': 'musala.jpg',
 	'musala_bag': 'musala_bag.png'
+});
+
+// Assets for Sounds
+Monogatari.assets ('sound', {
+	'applause': 'APPLAUSE.WAV',
+	'type': 'TYPE.WAV'
 });
 
 // Characters
@@ -151,6 +158,38 @@ monogatari.script ({
 		'show background stage',
 		'z Hari ini kita melanjutkan acara kita, dan sesuai janji kakak, kalian boleh menunjukkan bakat kalian.',
 		'show background chairs',
-		'Semua bertepuk tangan. Seolah bergembira atas apa yang akan mereka tonton sebentar lagi.'
+		'play sound applause',
+		'Semua bertepuk tangan. Seolah bergembira atas apa yang akan mereka tonton sebentar lagi.',
+		'show background stage_dark',
+		'Lampu padam tiba-tiba. Ruangan menjadi gelap dan suasana ricuh.',
+		'Sebuah lampu menyorot Zain yang diseret dengan mulut dan mata ditutup tangan pelakunya.',
+		'Lampu sorot padam.',
+		'show background stage',
+		'Beberapa saat kemudian, lampu ruangan menyala lagi dan Zain menghilang.',
+		'Anggota OSIS lainnya mulai gelabakan. Naiklah salah seorang dari mereka ke podium, dan menyuruh kami agar tetap tenang dan acara unjuk bakat dibatalkan.',
+		'Semua siswa yang berada di ruangan tersebut begitu kecewa dan mulai mengejek acara hari ini. Sementara salah satu anggota OSIS itu turun dari podium dan meninggalkan ruangan bersama yang anggota yang lain.',
+		'show background chairs',
+		'f Apa tadi barusan?',
+		'i Itu disengaja. Seandainya mereka mau, Zain bisa saja <i>diculik</i> lebih awal daripada ini atau kemarin.',
+		'f Bagaimana kalau kita cari di musala? Kemarin kan, kita menemukan tasku di sana.',
+		'i Ide bagus!',
+		'show background door_musala',
+		'i Kami pergi ke musala.'
+		'show scene musala with shake 1s',
+		'vibrate 200',
+		'i Kami menemukan seseorang di sana dengan kepala bertutup kain hitam. Kulepas kain itu, dan ternyata itu memang Zain. Aku juga melepaskan ikatan tali di kaki, mulut dan tangannya.',
+		'show background musala',
+		'z Apa yang terjadi?',
+		'f Kami pun tidak tahu.',
+		'z Tapi terima kasih, kalian menyelamatkanku. Aku hampir saja kehabisan napas gara-gara kain itu.',
+		'Zain bersiap untuk pergi.',
+		'i Tunggu dulu, ada beberapa hal yang ingin kusampaikan.',
+		'z Silakan.',
+		'Idris pun melontarkan pertanyaan-pertanyaan sementara Firdaus hanya memandang. Zain saat itu berbaik hati menjawab pertanyaannya.',
+		'i Baiklah, sudah jelas pelakunya.',
+		'f Pelaku di balik semua ini?',
+		'i Ya, tapi aku menyampaikannya besok, hari ketiga acara kita.',
+		'i Maukah Anda bekerja sama dengan kami?',
+		'z Tentu, aku sendiri tertarik mendengar siapa pelakunya.'
 	],
 });
