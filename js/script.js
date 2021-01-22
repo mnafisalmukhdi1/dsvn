@@ -191,7 +191,7 @@ monogatari.script ({
 		'f Pelaku di balik semua ini?',
 		'i Ya, tapi aku menyampaikannya besok, hari ketiga acara kita.',
 		'i Maukah Anda bekerja sama dengan kami?',
-		'z Tentu, aku sendiri tertarik mendengar siapa pelakunya.'
+		'z Tentu, aku sendiri tertarik mendengar siapa pelakunya.',
 		'show scene 0717 with fadeIn duration 3s',
 		'i Hari ketiga, hari terakhir untuk acara Masa Taaruf Siswa Madrasah.',
 		'show background stage',
