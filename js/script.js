@@ -252,7 +252,7 @@ monogatari.script ({
 		'jump Tamat'
 	],
 	'Tamat' : [
-		'shpw background #000',
+		'show background #000',
 		'show message thank_you',
 		'end'
 	],
