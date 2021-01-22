@@ -18,12 +18,6 @@ monogatari.assets ('scenes', {
 	'musala_bag': 'musala_bag.png'
 });
 
-// Assets for Sounds
-monogatari.assets ('sound', {
-	'applause': 'APPLAUSE.WAV',
-	'type': 'TYPE.WAV'
-});
-
 // Characters
 monogatari.characters ({
 	'i' : {
@@ -150,7 +144,6 @@ monogatari.script ({
 		'f Kurasa kamu benar. Ini seperti disengaja.',
 		'show scene 0716 with fadeIn duration 3s',
 		'i Sekarang adalah hari kedua dari acara Masa Taaruf Siswa Madrasah, juga sekolahku di tingkat MA.',
-		'wait 3000',
 		'show background stage',
 		'z Halo semuanya!',
 		'show background chairs',
@@ -158,7 +151,6 @@ monogatari.script ({
 		'show background stage',
 		'z Hari ini kita melanjutkan acara kita, dan sesuai janji kakak, kalian boleh menunjukkan bakat kalian.',
 		'show background chairs',
-		'play sound applause',
 		'Semua bertepuk tangan. Seolah bergembira atas apa yang akan mereka tonton sebentar lagi.',
 		'show background stage_dark',
 		'Lampu padam tiba-tiba. Ruangan menjadi gelap dan suasana ricuh.',
