@@ -19,7 +19,7 @@ monogatari.assets ('scenes', {
 });
 
 // Assets for Sounds
-Monogatari.assets ('sound', {
+monogatari.assets ('sound', {
 	'applause': 'APPLAUSE.WAV',
 	'type': 'TYPE.WAV'
 });
