@@ -174,7 +174,7 @@ monogatari.script ({
 		'f Bagaimana kalau kita cari di musala? Kemarin kan, kita menemukan tasku di sana.',
 		'i Ide bagus!',
 		'show background door_musala',
-		'i Kami pergi ke musala.'
+		'i Kami pergi ke musala.',
 		'show scene musala with shake 1s',
 		'vibrate 200',
 		'i Kami menemukan seseorang di sana dengan kepala bertutup kain hitam. Kulepas kain itu, dan ternyata itu memang Zain. Aku juga melepaskan ikatan tali di kaki, mulut dan tangannya.',
