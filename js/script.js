@@ -15,8 +15,13 @@ monogatari.assets ('scenes', {
 	'0715': '0715.png',
 	'0716': '0716.png',
 	'0717': '0717.png',
+	'0729': '0729.png',
 	'school': 'school.jpg',
+	'school_hallway': 'school_hallway.jpg',
+	'school_rooftop': 'school_rooftop.png',
 	'door_gudang': 'door_gudang.png',
+	'gudang': 'gudang.jpg',
+	'gudang_dark': 'gudang_dark.png',
 	'stage': 'stage.jpg',
 	'stage_dark': 'stage_dark.png',
 	'chairs': 'chairs.jpg',
@@ -26,6 +31,7 @@ monogatari.assets ('scenes', {
 	'door_musala': 'door_musala.png',
 	'musala': 'musala.jpg',
 	'musala_bag': 'musala_bag.png'
+	
 });
 
 // Characters
