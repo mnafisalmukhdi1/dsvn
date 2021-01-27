@@ -55,7 +55,15 @@ monogatari.characters ({
 	'ba' : {
 		name: 'Bagus',
 		color: '#CD853F',
-	}
+	},
+	'bam' : {
+		name: 'Bambang',
+		color: '#4169E1',
+	},
+	'kur': {
+		name: 'Brigadir Polisi Kurniawan',
+		color: '#D3D3D3',
+	},
 });
 
 // Component
