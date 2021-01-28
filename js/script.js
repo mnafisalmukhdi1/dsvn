@@ -96,7 +96,9 @@ monogatari.script ({
         'end'
 	],
 	'Start': [
-	'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
+		'show background #000',
+		'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
+		'show background #000',
 		{'Choice': {
     'Kasus01': {
         'Text': 'Kasus 1 - Pertemuan',
