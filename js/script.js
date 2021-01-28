@@ -19,6 +19,7 @@ monogatari.assets ('scenes', {
 	'school': 'school.jpg',
 	'school_hallway': 'school_hallway.jpg',
 	'school_rooftop': 'school_rooftop.png',
+	'school_garden': 'school_garden.jpg',
 	'door_gudang': 'door_gudang.png',
 	'gudang': 'gudang.jpg',
 	'gudang_dark': 'gudang_dark.png',
