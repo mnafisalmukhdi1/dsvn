@@ -31,7 +31,9 @@ monogatari.assets ('scenes', {
 	'library': 'library.png',
 	'door_musala': 'door_musala.png',
 	'musala': 'musala.jpg',
-	'musala_bag': 'musala_bag.png'
+	'musala_bag': 'musala_bag.png',
+	'room_headmaster': 'room_headmaster.jpg',
+	'room_teacher': 'room_teacher.jpg'
 	
 });
 
@@ -418,9 +420,9 @@ monogatari.script ({
 		'id Kalau begitu, kita keluar. Cari guru yang bisa!',
 		'show background school_hallway',
 		'Idris dan Firdaus pergi ke ruang guru.',
-		'show scene room_office',
+		'show scene room_teacher',
 		'centered Kosong.',
-		'show background room_office',
+		'show background room_teacher',
 		'Idris mencurigai bahwa rapat yang para guru adakan sebelumnya hanya memberitahu bahwa akan terjadi ledakan. Ocehan yang mereka bahas sejak pagi hari.',
 		'show background school',
 		'Tepat mobil polisi meninggalkan madrasah kami, terjadilah ledakan sampai terdengar dentuman nyaring yang mengherankan berasal dari gudang dan merusak perpustakaan. Api masih membakar dan asapnya membumbung.',
