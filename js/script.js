@@ -97,7 +97,16 @@ monogatari.script ({
 	],
 	'Start': [
 	'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
-	'jump Kasus01'
+		{'Choice': {
+    'Kasus01': {
+        'Text': 'Kasus 1 - Pertemuan',
+        'Do': 'jump Kasus01'
+    },
+    'Kasus02': {
+        'Text': 'Kasus 2 - Kisah Kelam MA Sukamawar',
+        'Do': 'jump Kasus02'
+    },
+}}
     	],
 	'Kasus01': [
 		'nvl Kasus 1',
@@ -263,13 +272,13 @@ monogatari.script ({
 		'fir Ya, terkadang hidup kita ini perlu diisi.',
 		'Idris terlihat bingung dengan perkataan Firdaus.',
 		'show scene #000 with fadeIn 3s',
-		'jump Tamat'
+		'jump Kasus02'
 	],
 	'Kasus02' : [
 		'nvl Kasus 2',
 		'nvl Kisah Kelam MA Sukamawar',
 		'show scene 0729 with fadeIn 3s',
-		'centered &nbsp;',
+		'clear',
 		'show background school',
 		'id Aku berjalan mengelilingi sekolah baruku ini. Aku melakukannya karena mendengar ocehan para guru, tentang sesuatu yang mereka rahasiakan sejak dahulu. Ada hal besar yang akan terjadi hari ini dan saat itu aku belum mengetahuinya.',
 		'show background school_hallway',
@@ -337,7 +346,7 @@ monogatari.script ({
 		'id Baik, pak.',
 		'id Kira-kira apa yang ada di sana ya?',
 		'Idris yang penasaran mendekati arah yang ditunjuk Bagus barusan. Firdaus diam namun mengikutinya.',
-		'Idris tetap berjalan sampai tak sengaja terinjak sebuah pintu jebakan sampai hampir terjatuh, tapi Firdaus berhasil menangkapnya.'
+		'Idris tetap berjalan sampai tak sengaja terinjak sebuah pintu jebakan sampai hampir terjatuh, tapi Firdaus berhasil menangkapnya.',
 		'Idris hanya terduduk sambil memegang dadanya akibat terkejut.',
 		'show background gudang_dark',
 		'Cahaya masuk ke ruangan tepat di bawah dari pintu ini.',
