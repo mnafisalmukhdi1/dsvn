@@ -333,7 +333,7 @@ monogatari.script ({
 		'Idris dan Firdaus hanya berjalan di lorong, dengan keheningan yang terasa.',
 		'fir Kamu ingin ke kelas, kah?',
 		'id Tidak. Aku mendengar rapat yang akan diadakan nanti berdampak dengan ditiadakannya pelajaran. Mereka katanya akan membahas sebuah hal lebih lanjut.',
-		'fir Firdaus nampak kesal. Idris merasa kekesalannya disebabkan pelajaran hanya dilaksanakan Sabtu kemarin dan tidak lagi setelahnya.',
+		'Firdaus nampak kesal. Idris merasa kekesalannya disebabkan pelajaran hanya dilaksanakan Sabtu kemarin dan tidak lagi setelahnya.',
 		'id Mari kita berpikiran positif. Mungkin para guru menyusun ulang jadwal agar tidak tabrakan dengan kelas lain.',
 		'id Oh ya, kita kan belum pernah ke lantai dua. Ke sana yuk!',
 		'Firdaus menerima ajakan tersebut dan mereka pun menuju lantai dua sekolah.',
