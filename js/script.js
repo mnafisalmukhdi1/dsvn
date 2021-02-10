@@ -101,16 +101,7 @@ monogatari.script ({
 	'Start': [
 		'show background #000',
 		'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
-		'show background #000',
-		{'Choice': {
-    'Kasus01': {
-        'Text': 'Kasus 1 - Pertemuan',
-        'Do': 'jump Kasus01'
-    },
-    'Kasus02': {
-        'Text': 'Kasus 2 - Kisah Kelam MA Sukamawar',
-        'Do': 'jump Kasus02'
-    },
+		'jump Kasus01'
 }}
     	],
 	'Kasus01': [
