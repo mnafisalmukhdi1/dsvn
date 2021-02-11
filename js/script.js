@@ -102,7 +102,6 @@ monogatari.script ({
 		'show background #000',
 		'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
 		'jump Kasus01'
-}}
     	],
 	'Kasus01': [
 		'nvl Kasus 1',
