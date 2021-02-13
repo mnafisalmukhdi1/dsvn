@@ -100,7 +100,7 @@ button:hover {
 
 /* Text Box styling */
 [data-component="text-box"] {
-
+	font-size:18px;
 }
 
 /* Character Name Style */
