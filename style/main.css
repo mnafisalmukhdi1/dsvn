@@ -45,7 +45,7 @@ button:hover {
 
 /* Main Menu Styling */
 [data-screen="main"] {
-	background-image:url(https://res.cloudinary.com/mnam23/image/upload/v1610939744/bg_main.png);
+	background-image:url(https://res.cloudinary.com/mnam23/image/upload/v1610939744/works/ds/bg_main.png);
 	background-position: center; /* Center the image */
 	background-repeat: no-repeat; /* Do not repeat the image */
 	background-size: cover; /* Resize the background image to cover the entire container */
