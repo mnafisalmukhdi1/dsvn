@@ -68,7 +68,7 @@
 			"sizes": "310x310"
 		},
 		{
-			"src": "assets/icons/icon_512x512.png",
+			"src": "assets/icons/icon-512x512.png",
 			"type": "image/png",
 			"sizes": "512x512",
 			"purpose": "any maskable"
