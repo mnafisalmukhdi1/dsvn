@@ -136,7 +136,7 @@ monogatari.settings({
 monogatari.preferences ({
 
 	// Initial Language for Multilanguage Games or for the Default GUI Language.
-	'Language': 'Indonesian',
+	'Language': 'Bahasa Indonesia',
 
 	// Initial Volumes from 0.0 to 1.
 	'Volume': {
