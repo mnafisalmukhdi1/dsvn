@@ -536,7 +536,7 @@ monogatari.script ({
 		'id Tiba-tiba kami mendengar suara teriakan, sepertinya suara Tri. Mbak Rina kemudian berlari menuju sumber suara, aku dengan sontak mengikuti beliau.',
 		'show background door_bedroom1',
 		'id Sehingga sampailah kami di sebuah kamar, Tri yang duduk di lantai dengan muka yang pucat menunjuk ke dalam pintu yang sudah terbuka.',
-		'ahow background room_bed1',
+		'show background room_bed1',
 		'id Mbak Rina dan aku melihat ke dalam, dan ruang itu terbakar. Dan yang lebih mengejutkan lagi, Dwi tergantung dengan dada tertusuk pisau oleh tangannya, dan dia memasang sayap.',
 		'Kemudian datanglah Firdaus dan Manunggal yang berlari juga. Tak lama setelah itu, datanglah pak Wawan dengan membawa handuk basah.',
 		'Tak lama kemudian, api berhasil dipadamkan. Setelah itu, pak Wawan memberi isyarat kepada Manunggal untuk melepas tali yang menjerat leher Dwi. Manunggal yang sepertinya paham, mengangguk kemudian mendekati Dwi.',
