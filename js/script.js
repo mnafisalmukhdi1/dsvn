@@ -672,7 +672,7 @@ monogatari.script ({
 		'tri Ya, aku pelakunya. Semua yang dia katakan itu benar.',
 		'Mbak Rina dan Firdaus terkejut.',
 		'fir Mengapa kamu melakukannya?',
-		'tri Mereka tidak pernah menghargaiku! Ketika aku membuat yang kuinginkan, mereka selalu menghinaku!'
+		'tri Mereka tidak pernah menghargaiku! Ketika aku membuat yang kuinginkan, mereka selalu menghinaku!',
 		'tri Biarkan aku bercerita. Dulu aku pernah membuat maneken lilin Dionysus–',
 		'id Dewa Anggur?',
 		'tri Ya, dan mereka menghancurkannya!',
