@@ -651,7 +651,7 @@ monogatari.script ({
 		'tri Apa alasanmu menuduhku?',
 		'Dari situlah Idris memulai pemaparan, yang disebutnya sebagai deduksi.',
 		'id Pertama, aku menjelaskan dari hasil autopsi Dwi yang baru saja disampaikan.',
-		'id Dwi meninggal karena tusukan pisau tepat mengenai jantungnya. Seandainya dia benar-benar bunuh diri, seharunya menggantung leher sudah cukup. Tidak mungkin seribet itu.'
+		'id Dwi meninggal karena tusukan pisau tepat mengenai jantungnya. Seandainya dia benar-benar bunuh diri, seharunya menggantung leher sudah cukup. Tidak mungkin seribet itu.',
 		'Tri hanya diam, Idris melanjutkan pemaparannya.',
 		'id Aku menjelaskan bahwa kecurigaanku dimulai saat pembuatan Thrysos itu. Seharusnya tongkat itu terbuat dari kayu, apalagi ketika kami melihat bahwa podium dari rekayasa adegan pidato pertama walikota tetap terbuat dari kayu. Aku meyakini bahwa saat itulah Tri mengambil pisau Dwi dan membawa ke kamarnya.',
 		'id Kebetulan sekali sebelum hal itu terjadi, Dwi mungkin membuat sesuatu di kamarnya dan menggunakan pisau itu. Ketika pisaunya menghilang, dia akan menyangka bahwa masih ada di dalam kamarnya.',
