@@ -20,7 +20,7 @@ monogatari.settings({
 	'Name': 'Detektif Sekolahan',
 
 	// The version of your game in semantic versioning (https://semver.org/).
-	'Version': '0.3.2',
+	'Version': '0.3.9',
 
 	// Initial Label *
 	'Label': 'Start',
