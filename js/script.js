@@ -121,7 +121,7 @@ monogatari.configuration ('credits', {
 	"Pengembang": {
 		"Penulis": "M. Nafis Al-Mukhdi",
 		"Artist": ["id.images.search.yahoo.com", "Dicari"],
-		"Engine": "<a href='http://monogatari.io'>Monogatari</a>"
+		"Engine": "<a href='http://monogatari.io' target='blank'>Monogatari</a>"
 	},
 });
 
