@@ -26,6 +26,9 @@ body {
 button {
 
 }
+.button {
+	display:inline-block!important;
+}	
 
 /* Simple Button Style on Hover */
 button:hover {
