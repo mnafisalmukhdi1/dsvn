@@ -121,24 +121,48 @@ monogatari.configuration ('credits', {
 	"Pengembang": {
 		"Penulis": "M. Nafis Al-Mukhdi",
 		"Artist": ["id.images.search.yahoo.com", "Dicari"],
-		"Engine": "<a href='http://monogatari.io' target='blank'>Monogatari</a>"
+		"Engine": "<a href='http://monogatari.io'>Monogatari</a>"
 	},
 });
 
 // Script
 monogatari.script ({
 	'_SplashScreen': [
-	'show scene pg13 with fadeIn duration 3s',
-	'wait 3000',
-	'show scene author with fadeIn duration 3s',
-	'wait 3000',
+		'show scene pg13 with fadeIn duration 3s',
+		'wait 3000',
+		'show scene author with fadeIn duration 3s',
+		'wait 3000',
         'end'
-	],
+		],
 	'Start': [
 		'show background #000',
 		'centered Keseluruhan cerita hanyalah fiksi. Kesamaan nama tokoh dan tempat bukanlah sebuah kesengajaan. Tidak ada maksud untuk menyudutkan pihak manapun.',
-		'jump Kasus01'
+		'jump Select'
     	],
+	'Select': [
+		{'Choice': {
+			'Dialog': 'e Pilih kasus yang ingin Anda baca?',
+			'Kasus01': {
+				'Text': 'Kasus 01: Pertemuan',
+				'Do': 'jump Kasus01',
+				'Class': 'button',
+			},
+			'Kasus02': {
+				'Text': 'Kasus 02: Kisah Kelam MA Sukamawar',
+				'Do': 'jump Kasus02',
+				'Class': 'button',
+			},
+			'Kasus03': {
+				'Text': 'Kasus 03: Rumah Maneken Lilin',
+				'Do': 'jump Kasus03',
+				'Class': 'button',
+			},
+			'Player': {
+				'Text': 'Kasus 04: Tragedi 17 Agustus',
+				'Do': 'jump Kasus04'
+			}
+		}}
+	],
 	'End' : [
 		'show background #000',
 		'show message thank_you',
