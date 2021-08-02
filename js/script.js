@@ -207,7 +207,7 @@ monogatari.script ({
     	],
 	'Select': [
 		{'Choice': {
-			'Dialog': 'Pilih kasus yang ingin Anda baca?',
+			'Dialog': 'Pilih kasus yang ingin Anda baca.',
 			'Kasus01': {
 				'Text': 'Kasus 01: Pertemuan',
 				'Do': 'jump Kasus01',
