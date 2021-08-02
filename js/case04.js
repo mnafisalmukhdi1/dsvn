@@ -103,7 +103,7 @@ monogatari.script ({
 		'Masyarakat tidak begitu terlihat tertarik untuk menyambut hal tersebut setelah melihat mayat itu, begitu pula aku.',
 		'Tapi, karena belum pernah merasakan pengalaman 17 Agustus, Idris memutuskan untuk mencari bangku dan duduk di sana bersama Firdaus yang mengikuti.',
 		'Mereka hanya melihat dari sini, meski kurang nyaman untuk memandang.',
-		'feb Dari mana saja kalian?'
+		'feb Dari mana saja kalian?',
 		'agu Febri, Septiana.',
 		'feb Kami mencari-cari kalian.',
 		'sep Dan juga Aprillia.',
