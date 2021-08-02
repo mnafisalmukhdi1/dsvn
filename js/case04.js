@@ -175,7 +175,7 @@ monogatari.script ({
 		'Firdaus menengok puncak jembatan.',
 		'id Mungkin mereka panitia.',
 		'fir Bukan, itu Selvi dan Nina.',
-		'Mungkin mereka yang berbicara nyaring di taman itu dan sepertinya Firdaus memperhatikannya.'.
+		'Mungkin mereka yang berbicara nyaring di taman itu dan sepertinya Firdaus memperhatikannya.',
 		'id Itu buktinya, mereka turun. Mungkin mereka hanya mengecek talinya.',
 		'Kemudian setelah hal itu, para peserta menaiki jembatan dengan memanjat. Salah satu mereka adalah Septi.',
 		'fir Tunggu, bukankah dia dilarang ikut bungee jumping?',
