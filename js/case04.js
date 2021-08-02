@@ -239,7 +239,7 @@ monogatari.script ({
 		'id Berarti karena banyak tekanan, pinang itu semakin retak dan akhirnya roboh?',
 		'fir Bisa jadi. Kita sama-sama tidak melihat kejadiannya langsung.',
 		'Terlihat para panitia membersihkan tempat. Idris pun teringat sesuatu, kemudian mendekati mereka.',
-		'id Anu, pak! Dimana Anda menaruh kepala tadi?'
+		'id Anu, pak! Dimana Anda menaruh kepala tadi?',
 		'Salah satu dari mereka memberitahukan bahwa itu di dalam tenda biru sambil menunjuknya.',
 		'show background tent',
 		'Idris langsung pergi ke tenda biru yang dimaksud, mereka menaruhnya di atas meja. Firdaus mengikuti dan melihatnya juga.',
