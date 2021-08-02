@@ -16,6 +16,7 @@ monogatari.assets ('scenes', {
 	'0717': '0717.png',
 	'0729': '0729.png',
 	'0803': '0803.png',
+	'0807': '0807.png',
 	'school': 'school.jpg',
 	'school_hallway': 'school_hallway.jpg',
 	'school_rooftop': 'school_rooftop.png',
@@ -41,7 +42,12 @@ monogatari.assets ('scenes', {
 	'museum_gate': 'museum_gate.jpg',
 	'museum_room': 'museum_room.jpg',
 	'door_bedroom1': 'door_bedroom1.jpg',
-	'room_bed1': 'room_bed1.png'
+	'room_bed1': 'room_bed1.png',
+	'bridge': 'bridge.jpg',
+	'field': 'field.webp',
+	'river': 'river.jpg',
+	'riverside': 'riverside.jpg',
+	'tent': 'tent.jpg'
 });
 
 // Characters
@@ -101,6 +107,66 @@ monogatari.characters ({
 	'ika': {
 		name: 'Ika Pratiwi',
 		color: '#BC8F8F'
+	},
+	'jan': {
+		name: 'Januar',
+		color: '#DA70D6'
+	},
+	'feb': {
+		name: 'Febri',
+		color: '#D8BFD8'
+	},
+	'mar': {
+		name: 'Maria',
+		color: '#6B8E23'
+	},
+	'apr': {
+		name: 'Aprillia',
+		color: '#FFFFE0'
+	},
+	'mia': {
+		name: 'Mia',
+		color: '#778899'
+	},
+	'jun': {
+		name: 'Juna',
+		color: '#DAA520'
+	},
+	'jul': {
+		name: 'Juliet',
+		color: '#C0C0C0'
+	},
+	'agu': {
+		name: 'Agus',
+		color: '#FFF0F5'
+	},
+	'sep': {
+		name: 'Septi',
+		color: '#F08080'
+	},
+	'okt': {
+		name: 'Okta',
+		color: '#F0FFF0'
+	},
+	'nov': {
+		name: 'Noval',
+		color: '#008B8B'
+	},
+	'des': {
+		name: 'Desi',
+		color: '#9932CC'
+	},
+	'sel': {
+		name: 'Selvi',
+		color: '#F08080'
+	},
+	'nin': {
+		name: 'Nina',
+		color: '#8B008B'
+	},
+	'host': {
+		name: 'Pembawa Acara',
+		color: '#A0522D'
 	},
 });
 
