@@ -135,7 +135,7 @@ monogatari.script ({
 		'nov Tenanglah kalian, kita harus menang dalam lomba ini!',
 		'Noval mulai bertekad. Mereka berusaha semangat untuk memulai kembali meski baru saja kehilangan satu anggota.',
 		'nov Baiklah, sesuai rencana B kita, lomba dayung ini akan diikuti aku, Febri dan Septi. Aprillia bilang dia ingin ikut, tapi setelah kematiannya, aku memilih Juliet karena dia mengajukan diri.',
-		'jul Aprillia mati?'
+		'jul Aprillia mati?',
 		'jun Iya',
 		'jul Baguslah! Sudah lama aku menunggu kematiannya!',
 		'jan Hei, Juliet. Bukankah sudah kubilang kamu jangan begitu?',
