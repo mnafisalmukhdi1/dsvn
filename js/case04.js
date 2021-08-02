@@ -190,7 +190,7 @@ monogatari.script ({
 		'nov Bukankah tadi jelas-jelas Septi yang duluan?!',
 		'host Itu tidak dihitung, karena dia lepas dari tali sehingga dia didiskualifikasi.',
 		'nov Talinya putus, bodoh!! Itu salah kalian!',
-		'Perdebatan itu semakin menjadi. Kebencian Noval pun membutakannya. Dia mendorong sang pembawa acara dari panggung kecilnya, dan dia jatuh ke tepi sungai.'
+		'Perdebatan itu semakin menjadi. Kebencian Noval pun membutakannya. Dia mendorong sang pembawa acara dari panggung kecilnya, dan dia jatuh ke tepi sungai.',
 		'Kepala terbentur dengan batuan. Dia tewas seketika.',
 		'Tim keamanan dari panitia kali ini beraksi lebih cepat. Mereka langsung menangkap Noval dan membawanya ke kejauhan.',
 		'Tanpa disadari, Firdaus menghilang dari samping Idris.',
