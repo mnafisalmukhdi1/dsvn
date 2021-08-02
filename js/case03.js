@@ -253,6 +253,6 @@ monogatari.script ({
 		'ri Dari mana saja dirimu?',
 		'suri Ini salahku, aku bekerja di kantor walikota dan diberhentikan secara hormat hari ini. Aku masih ingat walikota menyanjung tempat ini selalu, dan aku tahu bahwa pemiliknya adalah kamu.',
 		'Demikianlah yang didengar Idris akan pembicaraan mereka. Semua yang hadir di tempat terenyuh melihat pemandangan itu.',
-		'jump End',
+		'jump Kasus04',
 	],
 });
