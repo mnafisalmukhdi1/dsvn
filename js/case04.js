@@ -128,7 +128,7 @@ monogatari.script ({
 		'nov Maukah kamu menggantikan Aprillia?',
 		'mia Kalian baru saja memperlakukanku seperti itu, kemudian memintaku untuk ikut kalian? Cih!',
 		'Mia kemudian menjauh entah ke mana.',
-		'jul Kalau begitu, aku saja.'
+		'jul Kalau begitu, aku saja.',
 		'Juliet datang bersama Okta dan Januar.',
 		'jul Juliet? Kamu juga?',
 		'okt Kami tidak dianggap?',
