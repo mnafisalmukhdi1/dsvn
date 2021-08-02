@@ -12,7 +12,7 @@ monogatari.script ({
 		'id Sekarang aku berada di Lapangan Sukamawar, satu-satunya lapangan yang ada di kota kecil ini berdasar pernyataan Firdaus.',
 		'id Pada barisan MA Sukamawar, aku berdiri bersebelahan dengan Firdaus di belakang.',
 		'id Waktu menunjukan pukul 08:30 saat melihat jam tanganku, dan upacara tepat dimulai sekarang.',
-		'Berbagai prosesi dilaksanakan, salah satunya masuknya inspektur upacara.'
+		'Berbagai prosesi dilaksanakan, salah satunya masuknya inspektur upacara.',
 		'id Itukah wali kota kita?',
 		'fir Ya, setauku nama beliau Mahmud.',
 		'Kemudian salah satu bagian dari prosesi adalah penaikan bendera',
