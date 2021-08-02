@@ -16,7 +16,7 @@ monogatari.assets ('scenes', {
 	'0717': '0717.png',
 	'0729': '0729.png',
 	'0803': '0803.png',
-	'0807': '0807.png',
+	'0817': '0817.png',
 	'school': 'school.jpg',
 	'school_hallway': 'school_hallway.jpg',
 	'school_rooftop': 'school_rooftop.png',
