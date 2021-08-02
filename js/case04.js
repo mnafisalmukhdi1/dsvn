@@ -245,7 +245,7 @@ monogatari.script ({
 		'Idris langsung pergi ke tenda biru yang dimaksud, mereka menaruhnya di atas meja. Firdaus mengikuti dan melihatnya juga.',
 		'fir Ini kepala Febri bukan? Aku sempat melihatnya.',
 		'Idris hanya mengangguk, dan Firdaus seperti menemukan sesuatu di leher Febri. Dia pun mengambil dan menunjukkannya pada Idris.',
-		'fir Apa ini? Serpihan kayu?'
+		'fir Apa ini? Serpihan kayu?',
 		'id Berarti ketika pelaku menebang pinang, Febri melihatnya dan pelaku langsung menebang kepala Febri juga?',
 		'fir Bagaimana dengan kapak ini? Apakah ini yang digunakan si pembunuh?',
 		'id Bisa jadi. Kita belum tahu.',
