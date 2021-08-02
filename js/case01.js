@@ -1,7 +1,7 @@
 //Script for Kasus01
 monogatari.script ({
 	'Kasus01': [
-		'show background #000'
+		'show background #000',
 		'nvl Kasus 1',
 		'nvl Pertemuan',
 		'show scene 0715 with fadeIn duration 3s',
