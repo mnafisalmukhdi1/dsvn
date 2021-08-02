@@ -120,7 +120,7 @@ monogatari.script ({
 		'jun Si-siapa yang akan menggantikannya?',
 		'mia Aku',
 		'des Mia?',
-		'Desi mendekati wanita bernama Mia itu dan menamparnya.'
+		'Desi mendekati wanita bernama Mia itu dan menamparnya.',
 		'agu Tenanglah Desi.',
 		'Mia hanya memegang pipi yang baru saja ditampar itu, dan dia malah tersenyum menyeringai.',
 		'jun Dari mana saja kau?',
