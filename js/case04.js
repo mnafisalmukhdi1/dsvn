@@ -95,7 +95,7 @@ monogatari.script ({
 		'mar D-di-Bukankah dia akan tampil setelah ini?',
 		'agu Diskusi kemarin menyatakan seharusnya memang begitu, Maria. Namun apa daya, kematiannya ini mengejutkan.',
 		'des Bagaimana jika mereka menarik biaya lagi untuk seseorang yang tidak tampil? Siapa yang akan menggantikannya?',
-		'agu Entahlah Desi, kita akan menunggu saja mereka tampil di sini.'.
+		'agu Entahlah Desi, kita akan menunggu saja mereka tampil di sini.',
 		'id Apakah mereka seperti ini setiap tahun?',
 		'Pertanyaan Idris tidak terjawab karena pembawa acara memulai acara begitu saja.',
 		'host Bapak-bapak, ibu-ibu, saudara-saudari! Lomba pertama akan segera dimulai!',
