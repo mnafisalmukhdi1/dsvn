@@ -173,7 +173,7 @@ monogatari.script ({
 		'host Lomba kedua, bungee jumping akan segera dimulai, harap peserta bersiap-siap di posisi.',
 		'fir Apa yang dilakukan dua wanita itu di sana?',
 		'Firdaus menengok puncak jembatan.',
-		'id Mungkin mereka panitia.'
+		'id Mungkin mereka panitia.',
 		'fir Bukan, itu Selvi dan Nina.',
 		'Mungkin mereka yang berbicara nyaring di taman itu dan sepertinya Firdaus memperhatikannya.'.
 		'id Itu buktinya, mereka turun. Mungkin mereka hanya mengecek talinya.',
