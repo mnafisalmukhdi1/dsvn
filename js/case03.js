@@ -1,7 +1,7 @@
 //Script for Kasus03
 monogatari.script ({
 	'Kasus03': [
-		'show background #000'
+		'show background #000',
 		'nvl Kasus03',
 		'nvl Pembunuhan di Rumah Maneken Lilin',
 		'show scene 0803',
