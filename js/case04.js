@@ -1,10 +1,10 @@
 //Script for Kasus04
 monogatari.script ({
 	'Kasus04': [
-		'show background #000'
+		'show background #000',
 		'nvl Kasus04',
 		'nvl Pembunuhan di Rumah Maneken Lilin',
-		'show scene 0708',
+		'show scene 0817',
 		'show background field',
 		'Hari kemerdekaan Indonesia. Orang-orang merayakannya dengan meriah, termasuk masyarakat Sukamawar.',
 		'id Hari ini, MA Sukamawar sebenarnya diliburkan namun beberapa siswa dari kelas X diminta untuk menghadiri upacara, termasuk aku dan Firdaus.',
